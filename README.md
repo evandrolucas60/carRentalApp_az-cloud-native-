@@ -23,6 +23,8 @@ app-rentCar/
         Program.cs
       fnSBRentProcess/    # Função para integração com Service Bus (opcional/futuro)
 ```
+## 📐  Desenho da Arquitetura
+![Web 1](https://github.com/evandrolucas60/readme-assets-repository/blob/main/CloudNative.png)
 
 ## 📌 Descrição
 
